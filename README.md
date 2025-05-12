@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @darrojen
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+ 👋 Hi, I'm Darlington
 
-<!---
-darrojen/darrojen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate **Frontend Developer** and **AI enthusiast**, building performant web apps with React, and exploring the future of tech through projects in **Generative AI**.
+
+🚀 **What I Do:**
+- Craft responsive user interfaces with React
+- Dive into AI tools like Hugging Face, OpenAI, and LangChain
+- Turn ideas into real-world projects (like SKY CAST, my award-winning weather app ☁️)
+
+🧠 **Currently Learning:**
+- AI-powered web applications
+- Backend APIs and databases (Supabase, Node.js)
+- Full-stack project architecture
+
+📫 **Let’s Connect:**
+- DM me or check my pinned projects
+- I love working on collaborative tech ideas and impactful solutions!
+
+_"Think X, Dream The Future."_  
