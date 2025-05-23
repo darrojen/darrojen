@@ -15,5 +15,3 @@ I'm a passionate **Frontend Developer** and **AI enthusiast**, building performa
 📫 **Let’s Connect:**
 - DM me or check my pinned projects
 - I love working on collaborative tech ideas and impactful solutions!
-
-_"Think X, Dream The Future."_  
