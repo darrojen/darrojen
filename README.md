@@ -1,6 +1,6 @@
  👋 Hi, I'm Darlington
 
-I'm a passionate **Frontend Developer** and **AI enthusiast**, building performant web apps with React, and exploring the future of tech through projects in **Generative AI**.
+I'm a passionate **Web Developer** and **AI enthusiast** and exploring the future of tech through projects in **Generative AI**.
 
 🚀 **What I Do:**
 - Craft responsive user interfaces with React
